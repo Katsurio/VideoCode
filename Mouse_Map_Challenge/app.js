@@ -10,3 +10,4 @@ document.addEventListener('mousemove', function(e) {
 
     document.body.style.backgroundColor = color;
 })
+/Applications/MAMP/htdocs/Springboard/VideoCode
